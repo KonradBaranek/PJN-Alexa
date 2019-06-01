@@ -1,0 +1,7 @@
+your name << Alexa
+my homework << C:\Users\konrad\Desktop\homework.txt
+config << C:\Users\konrad\Documents\pjn1\config.txt
+homework site<< www.rjawor.home.amu.edu.pl
+fun website << www.9gag.com
+canvas << canvas.instructure.com
+test << kikimori
